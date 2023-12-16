@@ -6,26 +6,21 @@
     "size": 3,
     "hasItems": true,
     "hasLiquids": true,
-    "itemCapacity": 20,
-    "craftTime": 200,
+    "itemCapacity": 20000,
+    "craftTime": 20,
     "buildCostMultiplier": 0.2,
     "consumes": {
-        "power": 8,
+        "power": 1,
         "liquids": [
             "slag/0.5",
-            "cryofluid/0.5"
         ]
 	},
     "requirements": [
-        "compressed-thorium/200",
-        "compressed-titanium/150",
         "compressed-lead/50",
         "compressed-copper/75",
         "graphite/95",
-        "silicon/100",
-        "lopper/50"
     ],
     "category": "crafting",
     "research": "thorium-compressor",
-    "outputItem": "obsidian/6"
+    "outputItem": "obsidian/600"
 }
