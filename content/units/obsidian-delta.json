@@ -2,31 +2,31 @@
     "type": "flying",
     "name": "[#65088A]Obsidian Delta",
     "description": "Defends the obsidian core from enemies. Builds structures. modified Delta unit code/sprites from z0mbiesrock's Larger-Cores mod",
-    "speed": 4,
-    "accel": 0.125,
+    "speed": 10,
+    "accel": 0.525,
     "drag": 0.0625,
-    "mineSpeed": 9,
-    "mineTier": 4,
-    "health": 1200,
+    "mineSpeed": 8,
+    "mineTier": 7,
+    "health": 12000,
     "alwaysUnlocked": true,
-    "itemCapacity": 120,
-    "rotateSpeed": 25,
+    "itemCapacity": 12000,
+    "rotateSpeed": 30,
     "hitSize": 13,
-    "armor": 3,
-    "buildSpeed": 2,
+    "armor": 20,
+    "buildSpeed": 10,
     "engineOffset": 8.5,
     "flying": true,
     "weapons": [
         {
             "name": "flakgun-core",
-            "reload": 38,
+            "reload": 18,
             "x": 5,
             "y": 2,
             "top": false,
             "rotate": false,
             "shoot": {
-                "shots": 4,
-                "shotDelay": 3
+                "shots": 10,
+                "shotDelay": 2
             },
             "inaccuracy": 5,
             "velocityRnd": 0.25,
@@ -35,13 +35,13 @@
             "shootSound": "shootBig",
             "bullet": {
                 "type": "BasicBulletType",
-                "damage": 22,
-                "speed": 5.5,
+                "damage": 88,
+                "speed": 10.5,
                 "width": 8,
                 "height": 14,
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
-                "lifetime": 40,
+                "lifetime": 80,
                 "sprite": "bullet"
             }
         },
@@ -71,7 +71,7 @@
         },
         {
             "name": "small-weapon-core",
-            "reload": 20.1,
+            "reload": 8.1,
             "x": -5,
             "y": -2,
             "top": false,
@@ -85,11 +85,11 @@
             "ejectEffect": "casing1",
             "bullet": {
                 "type": "BasicBulletType",
-                "damage": 18,
-                "speed": 8,
-                "width": 4,
-                "height": 9,
-                "lifetime": 20,
+                "damage": 98,
+                "speed": 9,
+                "width": 5,
+                "height": 10,
+                "lifetime": 50,
                 "sprite": "bullet"
             }
         }
