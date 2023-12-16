@@ -3,10 +3,10 @@
     "description": "A better router",
     "type": "router",
     "size": 1,
-    "health": 110,
+    "health": 1100,
     "hasItems": true,
-    "speed": 30,
-    "itemCapacity": 3,
+    "speed": 900,
+    "itemCapacity": 3000,
     "requirements": [
         "compressed-copper/1",
         "compressed-titanium/2"
