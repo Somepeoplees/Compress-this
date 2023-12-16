@@ -5,7 +5,7 @@
     "details": "Living core",
     "size": 7,
     "health": 55000,
-    "itemCapacity": 28000,
+    "itemCapacity": 28000000,
     "requirements": [
         "compressed-copper/2200",
         "compressed-lead/2200",
