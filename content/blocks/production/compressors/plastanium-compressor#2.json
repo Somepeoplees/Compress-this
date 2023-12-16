@@ -5,15 +5,15 @@
     "health": 200,
 	"size": 3,
 	"hasItems": true,
-	"itemCapacity": 30,	
-	"craftTime": 70,
+	"itemCapacity": 30000,	
+	"craftTime": 15,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
-		"power": 5,
+		"power": 1,
 		"items": {
 			"items": [
-               "plastanium/4"
+               "plastanium/1"
 			]
 		}
 	},
@@ -27,5 +27,5 @@
 	],
 	"category": "crafting",
 	"research": "thorium-compressor",
-	"outputItem": "compressed-plastanium/2"
+	"outputItem": "compressed-plastanium/200"
 }
