@@ -6,26 +6,25 @@
     "size": 2,
     "hasItems": true,
     "hasLiquids": true,
-    "itemCapacity": 30,
-    "craftTime": 45,
+    "itemCapacity": 30000,
+    "craftTime": 4,
     "buildCostMultiplier": 0.2,
     "consumes": {
-        "power": 1.5,
+        "power": 1,
         "liquids": [
             "water/0.1"
         ],
         "items": [
-            "sand/5",
-            "graphite/10"
+            "sand/1",
+            "graphite/1"
         ]
 	},
     "requirements": [
-        "compressed-lead/25",
         "compressed-copper/30",
         "graphite/45",
         "lopper/20"
     ],
     "category": "crafting",
     "research": "silicon-smelter",
-    "outputItem": "silicon/15"
+    "outputItem": "silicon/1500"
 }
