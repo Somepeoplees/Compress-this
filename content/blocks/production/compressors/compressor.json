@@ -5,8 +5,8 @@
     "health": 100,
 	"size": 2,
 	"hasItems": true,
-	"itemCapacity": 10,	
-	"craftTime": 20,
+	"itemCapacity": 10000,	
+	"craftTime": 10,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
