@@ -5,7 +5,7 @@
     "details": "Obsidian core",
     "size": 6,
     "health": 17500,
-    "itemCapacity": 18000,
+    "itemCapacity": 1800000,
     "requirements": [
         "obsidian/10000",
         "compressed-thorium/8000",
