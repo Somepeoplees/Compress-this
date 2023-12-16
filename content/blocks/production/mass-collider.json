@@ -3,24 +3,23 @@
     "type": "GenericCrafter",
     "description": "Smashes Budzirium and Alexanderium together to make Budzanderium",
     "health": 500,
-    "size": 7,
+    "size": 2,
     "hasItems": true,
-    "itemCapacity": 25,
-	  "craftTime": 600,
-    "buildCostMultiplier": 2,
+    "itemCapacity": 25000,
+	  "craftTime": 60,
+    "buildCostMultiplier": 1,
     "consumes": {
 		"power": 7,
 		"items": {
 			"items": [
-                "budzirium/1",
-                "alexanderium/2"
+                "Lead/1",
 			]
 		},
         "liquids": {
             "liquids": [
               {
                 "liquid": "infected-cryofluid",
-                "amount": 0.5
+                "amount": 0
               }
             ]
           }
@@ -32,6 +31,6 @@
 		"alexanderium", 
 		"budzirium"
 	],
-    "outputItem": "budzanderium/2",
+    "outputItem": "budzanderium/900",
 	"category": "crafting" 
 }
