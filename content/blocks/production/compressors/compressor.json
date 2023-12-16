@@ -3,7 +3,7 @@
     "type": "GenericCrafter",
     "description": "compresses copper",
     "health": 100,
-	"size": 2,
+	"size": 1,
 	"hasItems": true,
 	"itemCapacity": 10000,	
 	"craftTime": 10,
