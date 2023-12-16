@@ -22,7 +22,7 @@
     "consumes": {
         "items": {
             "items": [
-                "Lead/1"
+                "copper/2"
             ],
             "booster": true,
             "optional": true
