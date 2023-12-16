@@ -3,29 +3,21 @@
     "type": "GenericCrafter",
     "description": "Over time scientists discovered something, something weird, something.. dark. they put compressing materials to the side and started working on a gravity tractor. they found budzirium, with properties so unstable it couldn't be real. (very very very very rare, so dont expect to get a lot of it.)",
     "health": 500,
-	"size": 9,
+	"size": 4,
 	"hasItems": true,
-	"itemCapacity": 1,	
-	"craftTime": 3500,
-	"buildCostMultiplier": 2,
+	"itemCapacity": 10000,	
+	"craftTime": 35,
+	"buildCostMultiplier": 1,
 	"consumes": {
 		"power": 51
 		},
 	"requirements": [
-		"surge-alloy/250",
-		"alexanderium/175",
-		"obsidian/300",
 		"graphite/200",
-		"silicon/400",
 		"compressed-titanium/200",
-		"compressed-thorium/200",
-		"compressed-plastanium/150",
-		"lopper/275",
-		"compressed-phase/150"
 	],
 	"category": "crafting",
 	"research": "obsidian-cooler",
-	"outputItem": "budzirium/1",
+	"outputItem": "budzirium/100",
 
 	"drawer": {
 		"type": "DrawMulti",
