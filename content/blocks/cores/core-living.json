@@ -7,21 +7,21 @@
     "health": 55000,
     "itemCapacity": 28000,
     "requirements": [
-        "compressed-copper/22000",
-        "compressed-lead/22000",
-        "metaglass/10000",
-        "graphite/10000",
-        "compressed-titanium/22000",
-        "compressed-plastanium/10000",
-        "silicon/22000",
-        "compressed-thorium/22000",
-        "compressed-phase/10000",
-        "surge-alloy/22000",
-        "obsidian/20000",
-        "alexanderium/24000"
+        "compressed-copper/2200",
+        "compressed-lead/2200",
+        "metaglass/1000",
+        "graphite/1000",
+        "compressed-titanium/2000",
+        "compressed-plastanium/1000",
+        "silicon/2200",
+        "compressed-thorium/2200",
+        "compressed-phase/0",
+        "surge-alloy/0",
+        "obsidian/200",
+        "alexanderium/200"
     ],
     "category": "effect",
     "research": "core-obsidian",
     "unitType": "living-epsilon",
-    "unitCapModifier": 30
+    "unitCapModifier": 300
 }
