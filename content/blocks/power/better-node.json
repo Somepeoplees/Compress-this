@@ -7,8 +7,8 @@
     "compressed-copper/15",
     "compressed-lead/10"
 ],
-"laserRange": 10,
-"maxNodes": 15,
+"laserRange": 35,
+"maxNodes": 100,
 "category": "power",
 "research": "power-node"
 }
