@@ -1,15 +1,12 @@
 {
     "name": "Budzirium vault",
     "type": "StorageBlock",
-    "itemCapacity": 9000,
-    "size": 6,
+    "itemCapacity": 9000000,
+    "size": 8,
     "category": "effect",
-    "health": 300,
+    "health": 30000,
     "research": "vault",
     "requirements": [
-        "budzirium/25",
         "compressed-titanium/250",
-        "compressed-thorium/200",
-        "obsidian/300"
     ]
 }
