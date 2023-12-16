@@ -5,23 +5,21 @@
     "health": 190,
 	"size": 2,
 	"hasItems": true,
-	"itemCapacity": 20,	
-	"craftTime": 35,
+	"itemCapacity": 20000,	
+	"craftTime": 3,
 	"consumes": {
-		"power": 5,
+		"power": 1,
 		"items": {
 			"items": [
-               "thorium/2",
-			   "sand/5"
+			   "sand/1"
 			]
 		}
 	},
 	"requirements": [
-        "compressed-lead/120",
-		"thorium/75",
-		"silicon/130"
+        "compressed-lead/12",
+		"silicon/13"
 	],
 	"category": "crafting",
 	"research": "phase-weaver",
-	"outputItem": "phase-fabric/1"
+	"outputItem": "phase-fabric/100"
 }
