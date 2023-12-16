@@ -1,9 +1,9 @@
 {
     "name": "[#30de23]Mono Maker",
     "description": "Makes monos for free bc i dont like wasting silicon on them things",
-    "health": 360,
+    "health": 3600,
     "type":"unitFactory",
-    "size": 3,
+    "size": 2,
     "consumes": {"power": 1},
     "plans":  
     [
@@ -12,7 +12,7 @@
         "requirements": 
         [
         ],
-        "time": 1300}
+        "time": 130}
     ],
     "itemCapacity": 0,
     "requirements": 
