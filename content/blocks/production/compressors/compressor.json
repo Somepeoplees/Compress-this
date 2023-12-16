@@ -22,5 +22,5 @@
 	],
 	"category": "crafting",
 	"research": "graphite-press",
-	"outputItem": "compressed-copper/1"
+	"outputItem": "compressed-copper/100"
 }
