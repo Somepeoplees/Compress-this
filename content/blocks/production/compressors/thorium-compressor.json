@@ -3,17 +3,17 @@
     "type": "GenericCrafter",
     "description": "compresses thorium",
     "health": 200,
-	"size": 3,
+	"size": 1,
 	"hasItems": true,
-	"itemCapacity": 30,	
-	"craftTime": 50,
+	"itemCapacity": 30000,	
+	"craftTime": 15,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
-		"power": 3.5,
+		"power": 1,
 		"items": {
 			"items": [
-               "thorium/4"
+               "thorium/1"
 			]
 		}
 	},
@@ -25,5 +25,5 @@
 	],
 	"category": "crafting",
 	"research": "titanium-compressor",
-	"outputItem": "compressed-thorium/2"
+	"outputItem": "compressed-thorium/2000"
 }
