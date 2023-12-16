@@ -5,8 +5,8 @@
     "health": 100,
 	"size": 2,
 	"hasItems": true,
-	"itemCapacity": 10,	
-	"craftTime": 200,
+	"itemCapacity": 10000,	
+	"craftTime": 2,
 	"consumes": {
 	},
 	"requirements": [
@@ -15,7 +15,7 @@
 	],
 	"category": "production",
 	"research": "mechanical-drill",
-	"outputItem": "coal/1",
+	"outputItem": "coal/10",
     "drawer": {
 		"type": "DrawMulti",
 		"drawers": [
