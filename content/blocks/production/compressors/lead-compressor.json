@@ -3,10 +3,10 @@
     "type": "GenericCrafter",
     "description": "compresses lead",
     "health": 150,
-	"size": 2,
+	"size": 1,
 	"hasItems": true,
-	"itemCapacity": 10,	
-	"craftTime": 30,
+	"itemCapacity": 10000,	
+	"craftTime": 10,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
